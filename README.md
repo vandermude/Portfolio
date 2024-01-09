@@ -1,6 +1,8 @@
 # Portfolio
 This is a portfolio of my work: It includes:
 
+Medium pages: See https://vandermude.medium.com
+
 Publications: Scientific papers and patents - See Publications.docx for more information
 
 SmartBatteryTime: An Android application using simple Machine Learning techniques to predict battery life - Java code for the Android Software Development Kit (SDK)
